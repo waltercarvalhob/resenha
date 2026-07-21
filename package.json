@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-chatbot-atendimento",
+  "version": "1.0.0",
+  "description": "Chatbot de atendimento para WhatsApp usando a Cloud API da Meta",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
+  }
+}
